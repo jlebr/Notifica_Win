@@ -1,0 +1,8 @@
+En la primer test_01 se puede enviar notifiación con un titulo y un mensaje
+
+En el segundo test_02 se puede enviar notifiación, cambiar el tipo de audio, agregar una imagen, colocar una cacción al hacer click en un boton.
+
+=================================================================
+Se puede instalar todas las librerias usando el requirements.txt
+1) acceder a la tuta del txt
+2) Ejecutar el comando pip install -r requirements.txt
